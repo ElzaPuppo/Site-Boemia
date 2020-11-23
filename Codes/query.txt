@@ -1,0 +1,1 @@
+SELECT * FROM tabela_evento_profissional INNER JOIN tabela_profissionais on tabela_evento_profissional.id_profissional = tabela_profissionais.id_funcionarios WHERE email_usuario = 'a'
